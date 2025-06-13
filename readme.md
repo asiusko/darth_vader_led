@@ -29,7 +29,7 @@ The Base can be powered from an external 5V power supply or from the included Li
 ### Schema
 ![Wiring schema](schema.png)
 
-[![Modes video](modes_preview.png)](modes.mp4)
+[![Modes video](modes_preview.png)](https://youtube.com/shorts/Wh1naFSjNQs?feature=share)
 
 ### License
 
